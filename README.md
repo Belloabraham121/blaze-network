@@ -2,15 +2,15 @@
 
 ## 🌍 What is Blaze Network?
 
-Blaze Network is a simple, user-friendly way for people in Nigeria to use cryptocurrency, specifically USDC, without needing a wallet app, internet browser, or complicated setups. Whether you have a smartphone or a basic feature phone, Blaze lets you send, receive, and check your USDC balance using familiar tools like WhatsApp, SMS, or USSD (those short codes you dial, like \*777#). Our mission is to make decentralized finance (DeFi) accessible to everyone, especially those who’ve never used crypto before, by meeting you where you are—on your phone.
+Blaze Network is a simple, user-friendly way for people to use cryptocurrency, specifically USDC, without needing a wallet app, internet browser, or complicated setups. Whether you have a smartphone or a basic feature phone, Blaze lets you send, receive, and check your USDC balance using familiar tools like WhatsApp, SMS, or USSD (those short codes you dial, like \*777#). Our mission is to make decentralized finance (DeFi) accessible to everyone, especially those who’ve never used crypto before, by meeting you where you are—on your phone.
 
-Imagine sending money to a friend, checking your balance, or moving USDC to another blockchain instantly, all through a quick WhatsApp message, SMS, or USSD code, even in areas with limited internet. Blaze Network is built to bring financial freedom to Nigeria’s diverse communities, from bustling cities like Lagos to rural villages.
+Imagine sending money to a friend, checking your balance, or moving USDC to another blockchain instantly, all through a quick WhatsApp message, SMS, or USSD code, even in areas with limited internet. Blaze Network is built to bring financial freedom to diverse communities, from bustling cities like Lagos to rural villages.
 
 ## ✨ What Can You Do with Blaze Network?
 
 With Blaze Network, you can:
 
-- **Send USDC**: Transfer USDC to anyone in Nigeria using their phone number. For example, send a WhatsApp message like “Send 10 USDC to +234…” or dial a USSD code like `*777*1*10*0803xxx#`.
+- **Send USDC**: Transfer USDC to anyone using their phone number. For example, send a WhatsApp message like “Send 10 USDC to +234…” or dial a USSD code like `*777*1*10*0803xxx#`.
 - **Receive USDC**: Get instant notifications via WhatsApp or SMS when someone sends you USDC, with no app downloads needed.
 - **Check Your Balance**: See your USDC balance by sending “Balance” on WhatsApp or dialing `*777*2#` on any phone.
 - **Move USDC Across Blockchains**: Seamlessly bridge USDC to other networks like Ethereum or swap it for tokens like USDT, using simple commands like “Bridge 10 USDC to USDT then send 10 to an address.”
@@ -44,7 +44,7 @@ Behind the scenes, Blaze runs on the blockchain, a fast and low-cost network. Hy
 - **For Everyone**: Works on any phone—smartphone or feature phone—so no one is left out, whether you’re in Lagos, Kano, or a rural village.
 - **Super Simple**: Send money, check balances, or move USDC across blockchains with easy texts or USSD codes, no crypto knowledge needed.
 - **Affordable**: We cover transaction fees (gas) and charge a small 1% fee on transfers, keeping costs low for you.
-- **Secure**: Your wallet is safely managed by our system, with encrypted keys and compliance with Nigeria’s regulations (NCC).
+- **Secure**: Your wallet is safely managed by our system and encrypted keys
 - **Connected Across Blockchains**: Move USDC to other networks like Ethereum seamlessly, opening up more DeFi opportunities without extra effort.
 
 ## 🚀 Getting Started
