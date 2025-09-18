@@ -22,12 +22,12 @@ With Blaze Network, you can:
 
 Blaze Network makes interoperability seamless by:
 
-- **Bridging Made Easy**: Want to move 10 USDC from Blaze’s home network (Morph or Mantle) to Ethereum? Just send a WhatsApp message like “Bridge 10 USDC to USDT.” Blaze uses advanced tools (Hyperlane and LI.FI) to find the fastest, cheapest way to move your money across chains, so you don’t need to understand the tech.
+- **Bridging Made Easy**: Want to move 10 USDC from Blaze’s home network (Morph or Mantle) to Ethereum? Just send a WhatsApp message like “Bridge 10 USDC to USDT.”.
 - **Smooth Follow-Up Actions**: After bridging, you can do more, like sending tokens to another address on the new chain. For example, “Bridge 10 USDC to USDT then send 10 to 0x123…” triggers both steps automatically, with Blaze coordinating everything behind the scenes.
 - **No Extra Steps for Users**: You don’t need to switch apps, manage multiple wallets, or learn blockchain jargon. Blaze handles the complex process of moving assets and data across networks, delivering simple confirmations via WhatsApp, SMS, or USSD.
 - **Affordable and Fast**: Blaze optimizes cross-chain transfers to keep fees low (covered by a 1% fee on transactions) and ensures quick processing, so you can move money in seconds, even on a feature phone with no internet.
 
-By combining Hyperlane (for sending instructions across blockchains) and LI.FI (for moving assets efficiently), Blaze Network makes it feel like all blockchains are one, letting you focus on using your money, not navigating tech.
+Blaze Network makes it feel like all blockchains are one, letting you focus on using your money, not navigating tech.
 
 ## 📱 How It Works
 
@@ -37,11 +37,9 @@ Blaze Network uses channels you already know:
 - **SMS**: Text our number (+1 740-279-3730) to create a wallet or check balances, perfect for feature phones with no data.
 - **USSD**: Dial our shortcode (\*777#) on any phone to send USDC or check your balance, even in areas with no internet.
 
-Behind the scenes, Blaze runs on the blockchain, a fast and low-cost network. Hyperlane and LI.FI enable smooth cross-chain transfers, while our system manages your wallet securely. You just send a text or dial a code, and we handle the rest.
-
 ## 🌟 Why Blaze Network?
 
-- **For Everyone**: Works on any phone—smartphone or feature phone—so no one is left out, whether you’re in Lagos, Kano, or a rural village.
+- **For Everyone**: Works on any phone—smartphone or feature phone—so no one is left out, whether you’re in rural village.
 - **Super Simple**: Send money, check balances, or move USDC across blockchains with easy texts or USSD codes, no crypto knowledge needed.
 - **Affordable**: We cover transaction fees (gas) and charge a small 1% fee on transfers, keeping costs low for you.
 - **Secure**: Your wallet is safely managed by our system and encrypted keys
