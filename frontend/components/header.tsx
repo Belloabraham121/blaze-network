@@ -32,7 +32,7 @@ export function Header() {
             <div className="relative">
               <div className="absolute top-1 left-0 h-1 w-5 -translate-y-1 rounded-full bg-gradient-to-r from-primary to-blue-600" />
               <div className="text-3xl font-bold bg-gradient-to-r from-primary to-blue-600 dark:from-blue-400 dark:to-blue-300 bg-clip-text text-transparent">
-                Zest
+                Blaze
               </div>
             </div>
           </div>
