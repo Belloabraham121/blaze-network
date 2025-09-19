@@ -33,8 +33,8 @@ export function FAQ() {
 
   const faqs = [
     {
-      q: "What is Zest?",
-      a: "Zest is a platform that lets you send, stake, swap, and bridge crypto across 20+ blockchains using WhatsApp, SMS, or USSD - no wallet apps or seed phrases required. Our AI assistant makes cross-chain DeFi simple for everyone.",
+      q: "What is Blaze?",
+      a: "Blaze is a platform that lets you send, stake, swap, and bridge crypto across 20+ blockchains using WhatsApp, SMS, or USSD - no wallet apps or seed phrases required. Our AI assistant makes cross-chain DeFi simple for everyone.",
     },
     {
       q: "How does cross-chain swapping work?",
@@ -54,7 +54,7 @@ export function FAQ() {
     },
     {
       q: "How does SMS crypto work?",
-      a: "Simply text commands to +1-555-ZEST (9378) from any phone. Our AI understands natural language, so you can say 'send $20 to mom' or 'swap to SOL'. No internet required - works on any mobile network.",
+      a: "Simply text commands to +1-555-Blaze (9378) from any phone. Our AI understands natural language, so you can say 'send $20 to mom' or 'swap to SOL'. No internet required - works on any mobile network.",
     },
     {
       q: "What can the AI assistant do?",
@@ -62,7 +62,7 @@ export function FAQ() {
     },
     {
       q: "Do I need a smartphone?",
-      a: "No! You can use Zest through WhatsApp (smartphone), SMS (any phone), or USSD (any phone). Our AI works across all channels to provide the same cross-chain capabilities.",
+      a: "No! You can use Blaze through WhatsApp (smartphone), SMS (any phone), or USSD (any phone). Our AI works across all channels to provide the same cross-chain capabilities.",
     },
     {
       q: "What languages does the AI support?",

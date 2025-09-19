@@ -122,7 +122,7 @@ export function HeroSection() {
               }`}>
               <p className="text-lg sm:text-xl text-muted-foreground mb-10 max-w-2xl leading-relaxed">
                 Simplified cross-chain transactions with unrivaled market access
-                via Zest. Effortlessly send, stake, swap, and bridge crypto
+                via Blaze. Effortlessly send, stake, swap, and bridge crypto
                 across 20+ blockchains using WhatsApp, SMS, or any phone.
               </p>
             </div>
@@ -248,7 +248,7 @@ export function HeroSection() {
                     </div>
                     <div>
                       <span className="font-semibold text-foreground">
-                        Zest AI
+                        Blaze AI
                       </span>
                       <div className="text-xs text-muted-foreground">
                         Online • AI Assistant

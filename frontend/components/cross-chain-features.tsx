@@ -324,7 +324,7 @@ export function CrossChainFeatures() {
                         LiFi Cross-Chain
                       </div>
                       <div className="text-xs text-muted-foreground">
-                        Powered by Zest AI
+                        Powered by Blaze AI
                       </div>
                     </div>
                   </div>

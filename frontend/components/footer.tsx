@@ -21,7 +21,7 @@ export function Footer() {
             <div className="relative mb-4 inline-block">
               <div className="absolute top-1 left-0 h-1 w-5 -translate-y-1 rounded-full bg-gradient-to-r from-[#3199f7] to-[#1d293d]" />
               <div className="text-3xl font-bold bg-gradient-to-r from-[#3199f7] to-[#1d293d] bg-clip-text text-transparent">
-                Zest
+                Blaze
               </div>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
@@ -50,7 +50,7 @@ export function Footer() {
               </div>
               <div className="flex items-center text-muted-foreground text-sm group">
                 <Mail className="w-4 h-4 mr-2 group-hover:text-primary transition-colors duration-200" />
-                hello@zest.com
+                hello@Blaze.com
               </div>
             </div>
           </div>
