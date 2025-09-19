@@ -18,7 +18,7 @@ With Blaze Network, you can:
 
 ## 🌐 How Interoperability Works with Blaze
 
-**Interoperability** means different blockchain networks can “talk” to each other, letting you move money or data across them—like sending USDC from one blockchain to another. In DeFi, this is key because crypto assets and services are spread across multiple networks (e.g., Morph Mantle, Ethereum, Polygon), and users need a way to access them without getting stuck on one chain.
+**Interoperability** means different blockchain networks can “talk” to each other, letting you move money or data across them—like sending USDC from one blockchain to another. In DeFi, this is key because crypto assets and services are spread across multiple networks (e.g., Somia, Ethereum, Polygon), and users need a way to access them without getting stuck on one chain.
 
 Blaze Network makes interoperability seamless by:
 
